@@ -9,9 +9,10 @@ Intro to Data Journalism Markdown practice resume.
 
 
 <h2>Skills</h2>
-*This is an ordered list*
 1.  Fluent in Spanish
+
 2.  Fluent in Hindi
+
 3.  Can Program in Python
 
 | Employer        | Job Description                                                                                                     |
