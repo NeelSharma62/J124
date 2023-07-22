@@ -19,5 +19,5 @@ Intro to Data Journalism Markdown practice resume.
 | Employer        | Job Description                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------|
 | Starbucks       | Worked as barista at local Starbucks serving people in my local community.                                          |
-| Aviation Museum | Worked as museum docent for 6 months.Taught visitors about aircraft and their complexities.                         |
-| Local Newspaper | Worked as reporter for sports section of local newspaper. Wrote about local proffesional sports teams specifically. |
+| Hiller Museum   | Worked as museum docent for 6 months.Taught visitors about aircraft and their complexities.                         |
+| Palo Alto Daily | Worked as reporter for sports section of local newspaper. Wrote about local proffesional sports teams specifically. 
