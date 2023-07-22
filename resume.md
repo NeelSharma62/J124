@@ -9,7 +9,7 @@ Intro to Data Journalism Markdown practice resume.
 
 
 <h2>Skills</h2>
-1.  Fluent in Spanish
+   1.  Fluent in Spanish
 
 2.  Fluent in Hindi
 
